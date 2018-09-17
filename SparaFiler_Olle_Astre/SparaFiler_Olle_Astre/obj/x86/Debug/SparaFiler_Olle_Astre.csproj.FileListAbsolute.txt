@@ -1,0 +1,68 @@
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Content\font.xnb
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\SparaFiler_Olle_Astre.exe
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\SparaFiler_Olle_Astre.pdb
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\SparaFiler_Olle_Astre.csprojResolveAssemblyReference.cache
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\SparaFiler_Olle_Astre.exe
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\SparaFiler_Olle_Astre.pdb
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\SparaFiler_Olle_Astre.csprojResolveAssemblyReference.cache
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\SparaFiler_Olle_Astre.exe
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\SparaFiler_Olle_Astre.pdb
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Content\font.xnb
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\SparaFiler_Olle_Astre.exe
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\SparaFiler_Olle_Astre.pdb
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Content\font.xnb
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\SparaFiler_Olle_Astre.exe
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\SparaFiler_Olle_Astre.pdb
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\SparaFiler_Olle_Astre.csprojResolveAssemblyReference.cache
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\SparaFiler_Olle_Astre.exe
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre - Copy\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\SparaFiler_Olle_Astre.pdb
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Content\font.xnb
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\SparaFiler_Olle_Astre.exe
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\SparaFiler_Olle_Astre.pdb
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\SparaFiler_Olle_Astre.csprojResolveAssemblyReference.cache
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\SparaFiler_Olle_Astre.exe
+E:\LBS\Årskurs 2\PRRPRR\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\SparaFiler_Olle_Astre\obj\x86\Debug\SparaFiler_Olle_Astre.pdb
